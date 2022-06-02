@@ -8,6 +8,7 @@ This is a file providing instructions on how to build a simple signup page. Colo
 - JavaScript.
 
 Note: Using npm packages, frameworks, or other ready-to-use libraries is not allowed.
+
 ## Layout elements required in project
 - A user signup form including:
     * Name of form as 'New User' on top of the form,
@@ -20,29 +21,13 @@ Note: Using npm packages, frameworks, or other ready-to-use libraries is not all
 - Checkbox to hide disabled users in the list of users table.
 
 
+
 ## Colors to be used in page
 - Dark Blue: #027CB9 (for header background in table)
 - Blue: #B5D6E6 (for when mouse is over )
 - Light Blue: #F0F1F2
 - White: #FFFFFF
 
-## Built With
-
-- Javascript,
-- ReactJS,
-- HTML5,
-- CSS3,
-- Awesome fonts,
-- DOM manipulation.
-
-## Getting Started
-
-The project uses the postgresql database
-To test the endpoints locally you can use tunneling with ngrok or a similar tool
-
-- `git clone git@github.com:necmigunduz/simple_login_page.git`,
-- `cd simple_login_page`,
-- `npm install`.
 
 ## Author
 
