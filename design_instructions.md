@@ -26,7 +26,7 @@ This is a file providing instructions on how to build a simple signup page. Colo
 
 ## Layout settlement
 
-![screenshot]()
+![screenshot](https://github.com/necmigunduz/product_design_instructions/blob/master/layout.png)
 
 ## Colors to be used in page
 
