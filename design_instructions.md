@@ -1,6 +1,6 @@
 # Instructions for Building a Simple Sign Up Page
 
-This is a file providing instructions on how to build a simple signup page. Colors, layout of page, progamming languages to be used in this signup page project is to be provided in this file.
+This is a file providing instructions on how to build a simple signup page. Colors, layout of page, progamming languages, and functionalities to be used in this signup page project is to be provided in this file.
 
 ## Programming languages to be used
 
