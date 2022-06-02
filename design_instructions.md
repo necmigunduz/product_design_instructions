@@ -26,14 +26,19 @@ This is a file providing instructions on how to build a simple signup page. Colo
 
 ## Layout settlement
 
+The elements required are to be placed on the layout as shown in the image below. 
+
 ![screenshot](https://github.com/necmigunduz/product_design_instructions/blob/master/layout.png)
 
 ## Colors to be used in page
+The page is required to use the tones of blue listed below: 
+- Dark Blue: #027CB9 (for header background in table and buttons),
+- Blue: #B5D6E6 (for hovering effect when mouse is over a line on the table),
+- Light Blue: #F0F1F2 (for the background of the form header),
+- White: #FFFFFF (for anywhere else on the design).
 
-- Dark Blue: #027CB9 (for header background in table)
-- Blue: #B5D6E6 (for when mouse is over )
-- Light Blue: #F0F1F2
-- White: #FFFFFF
+## Functionalities required
+- 
 
 ## Author
 
