@@ -9,13 +9,15 @@ This is a file providing instructions on how to build a simple signup page. Colo
 
 Note: Using npm packages, frameworks, or other ready-to-use libraries is not allowed.
 ## Layout elements required in project
-- User signup form including:
+- A user signup form including:
     * Name of form as 'New User' on top of the form,
     * Input fields for Username, Display Name, Phone, and Email,
     * Dropdown for User Roles including the options of Guest, Admin, and SuperAdmin,
-    * Checkbox for determining whether a user is Enabled or Disabled, 
+    * Checkbox for determining whether a user is Enabled or Disabled,
+- A table listing users who already signed including the information of ID, User Name, Email, and Enabled/Disabled (A boolean value coming from the checkbox is whether checked or not),
+- A button to save the user after all the required information is entered in the form
 - Button to display/hide user signup form,
-- Checkbox to hide
+- Checkbox to hide disabled users in the list of users table.
 
 
 ## Colors to be used in page
