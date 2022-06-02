@@ -12,7 +12,7 @@ This is a file providing instructions on how to build a simple signup page. Colo
 
 - Modern JavaScript Front-end Frameworks,
 
-- Awesome fonts.
+- Font Awesome icons.
 
 **_Note:_** Using Bootstrap, Tailwind, or other CSS libraries is not allowed.
 
