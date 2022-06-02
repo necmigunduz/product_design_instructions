@@ -1,4 +1,4 @@
-# Simple Sign Up Page Building Instructions
+# Instructions for Building a Simple Sign Up Page
 
 This is a file providing instructions on how to build a simple signup page. Colors, layout of page, progamming languages to be used in this signup page project is to be provided in this file.
 
@@ -19,10 +19,11 @@ This is a file providing instructions on how to build a simple signup page. Colo
   - Input fields for Username, Display Name, Phone, and Email,
   - Dropdown for User Roles including the options of Guest, Admin, and SuperAdmin,
   - Checkbox for determining whether a user is Enabled or Disabled,
-- A table listing users who already signed including the information of ID, User Name, Email, and Enabled/Disabled (A boolean value coming from the checkbox is whether checked or not),
+- A table listing users who already signed including the information of ID, User Name, Email, 
+    and Enabled/Disabled (A boolean value coming from the checkbox is whether checked or not),
 - A button to save the user after all the required information is entered in the form
-- Button to display/hide user signup form,
-- Checkbox to hide disabled users in the list of users table.
+- A button to display/hide user signup form,
+- A checkbox to hide disabled users in the list of users table.
 
 ## Layout settlement
 
