@@ -47,7 +47,7 @@ The page is required to use the tones of blue listed below:
 - White: #FFFFFF (for anywhere else on the design).
 
 ## Functionalities required
-- New user form is to be hidden and displayed when a user clicks on New User button,
+- Top nav-bar (on the top) including New User button, Hide Disabled Users checkbox, and Save User button, and the table of users list (on the left side) are to be displayed constantly while the New User signup form is (on the right side) to be shown when a user clicks on New User button,
 - When a user checks Hide Disabled User checkbox, the disabled users are to be removed from the User table,
 - Each column in the user table requires to have a filtering property to order users ascendant 
   or descendant,
